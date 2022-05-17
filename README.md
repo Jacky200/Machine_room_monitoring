@@ -1,0 +1,2 @@
+# Machine_room_monitoring
+基于Apache2服务器与Qt实现模拟机房温度数据监控与采集
